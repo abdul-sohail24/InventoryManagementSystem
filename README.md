@@ -17,8 +17,8 @@
     2.  Purchaser : a) Welcoming Purchaser
         b) Displaying the list of products as a Table (using Pandas)
 
-                 ![](images/Dataset.PNG)
+![](images/Dataset.PNG)
 
                     c) Taken Inputs and Checkout (Selected Product Details and Bill)
 
-    ![](images/purchaser.PNG)
+![](images/purchaser.PNG)
