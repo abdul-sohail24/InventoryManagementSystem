@@ -32,3 +32,7 @@
    After Purchase :
 
    ![](images/after_purchase.jpg)
+
+5. Creating and appending purchased data to sales.json file
+
+![](images/sales.PNG)
