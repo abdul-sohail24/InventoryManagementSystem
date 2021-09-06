@@ -22,3 +22,13 @@
         c) Taken Inputs and Checkout (Selected Product Details and Bill)
 
 ![](images/purchaser.PNG)
+
+4. Updating the quantity of a Product after purchase
+
+   Before Purchase :
+
+   ![](images/before_purchase.jpg)
+
+   After Purchase :
+
+   ![](images/after_purchase.jpg)
