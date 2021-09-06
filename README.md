@@ -19,6 +19,6 @@
 
 ![](images/Dataset.PNG)
 
-                    c) Taken Inputs and Checkout (Selected Product Details and Bill)
+        c) Taken Inputs and Checkout (Selected Product Details and Bill)
 
 ![](images/purchaser.PNG)
